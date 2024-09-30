@@ -55,7 +55,7 @@ const portfolioDetails = ["This is fully responsive SEO Company Website using HT
     "Fully responsive food website using HTML, CSS and Javascript"
 ]
 const portfolioLinks = ['https://mdsharif5.github.io/SEO-Company-Website/',
-    'https://mdsharif5.github.io/Travel-website/',
+    'https://mdimranhossain05.github.io/travel_website/',
     'https://mdsharif5.github.io/Education-website/',
     'https://mdsharif5.github.io/Food_website/'
 ]

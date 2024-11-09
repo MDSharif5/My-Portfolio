@@ -1,6 +1,6 @@
 // random text code for who I am
 var typed = new Typed(".multiple-text", {
-    strings: ["WordPress Designer", "web Designer", "Elementor Expert", "Avada Expert"],
+    strings: ["web Developer", "WordPress developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
